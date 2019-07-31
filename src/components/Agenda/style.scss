@@ -1,4 +1,4 @@
-@import "lib/style";
+@import 'lib/style';
 
 .outer {
   position: absolute;
@@ -25,7 +25,7 @@
 
 .header {
   display: block;
-  padding: 16px 0 12px 16px;
+  padding: 16px 12px 12px 16px;
 }
 
 .header {
