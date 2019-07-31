@@ -1,0 +1,16 @@
+@import 'lib/style';
+
+.select {
+  border-color: #d3d3d3;
+  border-radius: 0.25rem;
+  border-style: solid;
+  font-size: 0.8rem;
+  height: 1.5rem;
+  padding-left: 0.5rem;
+  padding-right: 1.5rem;
+  width: 33%;
+  color: grey;
+  outline: none;
+  display: inline-block;
+  float: right;
+}
