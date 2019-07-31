@@ -66,7 +66,7 @@ Please add your answers to the questions below:
 
 1. How long did you spend on this challenge?
    - Before implementing any of my code, it took me 30-35 minutes to understand the flow of the application, read up documentations for TypeScript and mobX since I haven't worked with these technologies before, and plan for my code implementation.
-   - It took me 3 hours to complete this challenge, 2 hours to implement Level 2 and 3, with styling (It took me longer to write the css for styling to make sure the style looks/feels right) , and around 15-20 minutes to fix the Level 1 bug.
+   - It took me 3 hours to complete this challenge, 2 hours to implement Level 2 and 3, with testing & styling (It took me longer to write the css for styling to make sure the style looks/feels right) , and around 35-40 minutes to fix the Level 1 bug.
 2. In your opinion, what are features that Double could work on that would be helpful for assistants when managing agendas?
 
    - Quentin was able to briefly go through some of the product offerings / features Double is offering, however, I wasn't able to recall the specific features available, so the features I provided might overlap with Double's existing features.
